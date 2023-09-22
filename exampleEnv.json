@@ -1,0 +1,6 @@
+{
+  "CLIENT_ID": "xxxx",
+  "CLIENT_SECRET": "xxxxxxx",
+  "PORT": 8081,
+  "DATABASE_URL": "mysql://user:password@localhost:3306/spotify-searcher"
+}
